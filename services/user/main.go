@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	config.ConnectDB("PRODUCT")
+	config.ConnectDB("USER")
 }
